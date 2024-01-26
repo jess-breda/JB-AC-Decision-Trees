@@ -10,5 +10,6 @@ jupyterlab
 scikit-learn
 statsmodels
 pyarrow
+pandasql
 ipykernel
 
